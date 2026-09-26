@@ -1,5 +1,21 @@
 # PillVision
 
+## Team Members
+
+| Name | Major | Email |
+|---|---|---|
+| Daniil Goncharuk | Computer Science | gonchadl@mail.uc.edu |
+| Nekruz Ashrapov | Computer Science | ashrapnz@mail.uc.edu |
+| Max Sharipo | Computer Science | tsvyetmx@mail.uc.edu |
+
+## Advisor
+
+**Name:** Dr. Hrishikesh Vinayak Bhide  
+**Department:** Department of Computer Science  
+**Email:** bhidehk@ucmail.uc.edu  
+
+---
+
 ## Project Description
 
 PillVision is a senior design project focused on developing a computer vision-based pill counting and verification system for a pharmacy-related setting.
